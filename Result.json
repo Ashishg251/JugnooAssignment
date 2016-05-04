@@ -1,0 +1,3002 @@
+[
+  {
+    "engagement_id": 1,
+    "metredDistance": 5.7,
+    "metredTime": 13,
+    "googleMetredDistance": 5.5,
+    "googleMetredTime": 12,
+    "distanceDeviation": "3.63636363636364 %",
+    "timeDeviation": "8.333333333333334 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 2,
+    "metredDistance": 8,
+    "metredTime": 15,
+    "googleMetredDistance": 8,
+    "googleMetredTime": 16,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "6.25 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 3,
+    "metredDistance": 8.2,
+    "metredTime": 23,
+    "googleMetredDistance": 8.2,
+    "googleMetredTime": 16,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "43.75 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 4,
+    "metredDistance": 7.5,
+    "metredTime": 22,
+    "googleMetredDistance": 7.1,
+    "googleMetredTime": 14,
+    "distanceDeviation": "5.633802816901413 %",
+    "timeDeviation": "57.142857142857146 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 5,
+    "metredDistance": 9.4,
+    "metredTime": 19,
+    "googleMetredDistance": 11,
+    "googleMetredTime": 22,
+    "distanceDeviation": "14.545454545454543 %",
+    "timeDeviation": "13.636363636363637 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 6,
+    "metredDistance": 7.1,
+    "metredTime": 17,
+    "googleMetredDistance": 7.1,
+    "googleMetredTime": 14,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "21.428571428571427 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 7,
+    "metredDistance": 5.4,
+    "metredTime": 14,
+    "googleMetredDistance": 5.3,
+    "googleMetredTime": 11,
+    "distanceDeviation": "1.8867924528301987 %",
+    "timeDeviation": "27.272727272727273 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 8,
+    "metredDistance": 0.4,
+    "metredTime": 34,
+    "googleMetredDistance": 8,
+    "googleMetredTime": 1,
+    "distanceDeviation": "95 %",
+    "timeDeviation": "3300 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 9,
+    "metredDistance": 6.9,
+    "metredTime": 18,
+    "googleMetredDistance": 7,
+    "googleMetredTime": 14,
+    "distanceDeviation": "1.4285714285714235 %",
+    "timeDeviation": "28.571428571428573 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 10,
+    "metredDistance": 2.9,
+    "metredTime": 10,
+    "googleMetredDistance": 3,
+    "googleMetredTime": 9,
+    "distanceDeviation": "3.333333333333336 %",
+    "timeDeviation": "11.11111111111111 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 11,
+    "metredDistance": 4.7,
+    "metredTime": 14,
+    "googleMetredDistance": 4.7,
+    "googleMetredTime": 13,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "7.6923076923076925 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 12,
+    "metredDistance": 7.6,
+    "metredTime": 22,
+    "googleMetredDistance": 7.8,
+    "googleMetredTime": 16,
+    "distanceDeviation": "2.5641025641025665 %",
+    "timeDeviation": "37.5 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 13,
+    "metredDistance": 4.4,
+    "metredTime": 14,
+    "googleMetredDistance": 4.4,
+    "googleMetredTime": 10,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "40 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 14,
+    "metredDistance": 9.7,
+    "metredTime": 23,
+    "googleMetredDistance": 9.5,
+    "googleMetredTime": 17,
+    "distanceDeviation": "2.105263157894729 %",
+    "timeDeviation": "35.294117647058826 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 15,
+    "metredDistance": 6.3,
+    "metredTime": 17,
+    "googleMetredDistance": 5.3,
+    "googleMetredTime": 13,
+    "distanceDeviation": "18.867924528301888 %",
+    "timeDeviation": "30.76923076923077 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 16,
+    "metredDistance": 6.5,
+    "metredTime": 53,
+    "googleMetredDistance": 1.4,
+    "googleMetredTime": 5,
+    "distanceDeviation": "364.2857142857143 %",
+    "timeDeviation": "960 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 17,
+    "metredDistance": 2.6,
+    "metredTime": 10,
+    "googleMetredDistance": 2.4,
+    "googleMetredTime": 8,
+    "distanceDeviation": "8.333333333333341 %",
+    "timeDeviation": "25 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 18,
+    "metredDistance": 4.8,
+    "metredTime": 14,
+    "googleMetredDistance": 6,
+    "googleMetredTime": 13,
+    "distanceDeviation": "20.000000000000004 %",
+    "timeDeviation": "7.6923076923076925 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 19,
+    "metredDistance": 4.8,
+    "metredTime": 12,
+    "googleMetredDistance": 5.8,
+    "googleMetredTime": 9,
+    "distanceDeviation": "17.24137931034483 %",
+    "timeDeviation": "33.333333333333336 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 20,
+    "metredDistance": 3.8,
+    "metredTime": 10,
+    "googleMetredDistance": 4.2,
+    "googleMetredTime": 9,
+    "distanceDeviation": "9.523809523809533 %",
+    "timeDeviation": "11.11111111111111 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 21,
+    "metredDistance": 9.8,
+    "metredTime": 24,
+    "googleMetredDistance": 9.8,
+    "googleMetredTime": 19,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "26.31578947368421 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 22,
+    "metredDistance": 4.1,
+    "metredTime": 11,
+    "googleMetredDistance": 4.2,
+    "googleMetredTime": 10,
+    "distanceDeviation": "2.3809523809523934 %",
+    "timeDeviation": "10 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 23,
+    "metredDistance": 2,
+    "metredTime": 7,
+    "googleMetredDistance": 2.8,
+    "googleMetredTime": 7,
+    "distanceDeviation": "28.57142857142857 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 24,
+    "metredDistance": 13.9,
+    "metredTime": 43,
+    "googleMetredDistance": 2.4,
+    "googleMetredTime": 6,
+    "distanceDeviation": "479.1666666666667 %",
+    "timeDeviation": "616.6666666666666 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 25,
+    "metredDistance": 9.4,
+    "metredTime": 29,
+    "googleMetredDistance": 3.7,
+    "googleMetredTime": 14,
+    "distanceDeviation": "154.05405405405403 %",
+    "timeDeviation": "107.14285714285714 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 26,
+    "metredDistance": 3.7,
+    "metredTime": 12,
+    "googleMetredDistance": 2.2,
+    "googleMetredTime": 7,
+    "distanceDeviation": "68.18181818181817 %",
+    "timeDeviation": "71.42857142857143 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 27,
+    "metredDistance": 9.4,
+    "metredTime": 24,
+    "googleMetredDistance": 1.9,
+    "googleMetredTime": 4,
+    "distanceDeviation": "394.7368421052632 %",
+    "timeDeviation": "500 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 28,
+    "metredDistance": 7.1,
+    "metredTime": 19,
+    "googleMetredDistance": 5.4,
+    "googleMetredTime": 11,
+    "distanceDeviation": "31.48148148148147 %",
+    "timeDeviation": "72.72727272727273 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 29,
+    "metredDistance": 8.9,
+    "metredTime": 31,
+    "googleMetredDistance": 6.5,
+    "googleMetredTime": 13,
+    "distanceDeviation": "36.92307692307693 %",
+    "timeDeviation": "138.46153846153845 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 30,
+    "metredDistance": 6.4,
+    "metredTime": 25,
+    "googleMetredDistance": 30,
+    "googleMetredTime": 1,
+    "distanceDeviation": "78.66666666666667 %",
+    "timeDeviation": "2400 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 31,
+    "metredDistance": 1.8,
+    "metredTime": 7,
+    "googleMetredDistance": 2,
+    "googleMetredTime": 6,
+    "distanceDeviation": "9.999999999999998 %",
+    "timeDeviation": "16.666666666666668 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 32,
+    "metredDistance": 8.2,
+    "metredTime": 22,
+    "googleMetredDistance": 7.7,
+    "googleMetredTime": 15,
+    "distanceDeviation": "6.493506493506482 %",
+    "timeDeviation": "46.666666666666664 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 33,
+    "metredDistance": 11.1,
+    "metredTime": 33,
+    "googleMetredDistance": 3.4,
+    "googleMetredTime": 7,
+    "distanceDeviation": "226.4705882352941 %",
+    "timeDeviation": "371.42857142857144 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 34,
+    "metredDistance": 3.5,
+    "metredTime": 15,
+    "googleMetredDistance": 2.9,
+    "googleMetredTime": 8,
+    "distanceDeviation": "20.689655172413797 %",
+    "timeDeviation": "87.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 35,
+    "metredDistance": 8,
+    "metredTime": 16,
+    "googleMetredDistance": 6.8,
+    "googleMetredTime": 14,
+    "distanceDeviation": "17.647058823529413 %",
+    "timeDeviation": "14.285714285714286 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 36,
+    "metredDistance": 3,
+    "metredTime": 10,
+    "googleMetredDistance": 3.1,
+    "googleMetredTime": 9,
+    "distanceDeviation": "3.225806451612906 %",
+    "timeDeviation": "11.11111111111111 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 37,
+    "metredDistance": 1.5,
+    "metredTime": 15,
+    "googleMetredDistance": 1.6,
+    "googleMetredTime": 5,
+    "distanceDeviation": "6.250000000000005 %",
+    "timeDeviation": "200 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 38,
+    "metredDistance": 4.9,
+    "metredTime": 13,
+    "googleMetredDistance": 4,
+    "googleMetredTime": 9,
+    "distanceDeviation": "22.500000000000007 %",
+    "timeDeviation": "44.44444444444444 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 39,
+    "metredDistance": 6.8,
+    "metredTime": 27,
+    "googleMetredDistance": 5,
+    "googleMetredTime": 11,
+    "distanceDeviation": "35.99999999999999 %",
+    "timeDeviation": "145.45454545454547 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 40,
+    "metredDistance": 8.4,
+    "metredTime": 35,
+    "googleMetredDistance": 7.6,
+    "googleMetredTime": 15,
+    "distanceDeviation": "10.526315789473694 %",
+    "timeDeviation": "133.33333333333334 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 41,
+    "metredDistance": 1.8,
+    "metredTime": 5,
+    "googleMetredDistance": 2.4,
+    "googleMetredTime": 5,
+    "distanceDeviation": "24.999999999999996 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 42,
+    "metredDistance": 1.6,
+    "metredTime": 9,
+    "googleMetredDistance": 1.7,
+    "googleMetredTime": 7,
+    "distanceDeviation": "5.882352941176462 %",
+    "timeDeviation": "28.571428571428573 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 43,
+    "metredDistance": 9.4,
+    "metredTime": 31,
+    "googleMetredDistance": 8.7,
+    "googleMetredTime": 19,
+    "distanceDeviation": "8.045977011494267 %",
+    "timeDeviation": "63.1578947368421 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 44,
+    "metredDistance": 9.5,
+    "metredTime": 29,
+    "googleMetredDistance": 8.1,
+    "googleMetredTime": 19,
+    "distanceDeviation": "17.283950617283956 %",
+    "timeDeviation": "52.63157894736842 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 45,
+    "metredDistance": 5.3,
+    "metredTime": 17,
+    "googleMetredDistance": 4,
+    "googleMetredTime": 8,
+    "distanceDeviation": "32.49999999999999 %",
+    "timeDeviation": "112.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 46,
+    "metredDistance": 8.4,
+    "metredTime": 44,
+    "googleMetredDistance": 7.2,
+    "googleMetredTime": 16,
+    "distanceDeviation": "16.666666666666668 %",
+    "timeDeviation": "175 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 47,
+    "metredDistance": 2.3,
+    "metredTime": 6,
+    "googleMetredDistance": 2.4,
+    "googleMetredTime": 6,
+    "distanceDeviation": "4.1666666666666705 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 48,
+    "metredDistance": 4.5,
+    "metredTime": 13,
+    "googleMetredDistance": 4.8,
+    "googleMetredTime": 11,
+    "distanceDeviation": "6.2499999999999964 %",
+    "timeDeviation": "18.181818181818183 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 49,
+    "metredDistance": 9.5,
+    "metredTime": 21,
+    "googleMetredDistance": 9.4,
+    "googleMetredTime": 19,
+    "distanceDeviation": "1.0638297872340388 %",
+    "timeDeviation": "10.526315789473685 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 50,
+    "metredDistance": 3.6,
+    "metredTime": 0,
+    "googleMetredDistance": 3.2,
+    "googleMetredTime": 9,
+    "distanceDeviation": "12.499999999999996 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 51,
+    "metredDistance": 3.2,
+    "metredTime": 13,
+    "googleMetredDistance": 3,
+    "googleMetredTime": 7,
+    "distanceDeviation": "6.666666666666672 %",
+    "timeDeviation": "85.71428571428571 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 52,
+    "metredDistance": 3,
+    "metredTime": 8,
+    "googleMetredDistance": 3.1,
+    "googleMetredTime": 7,
+    "distanceDeviation": "3.225806451612906 %",
+    "timeDeviation": "14.285714285714286 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 53,
+    "metredDistance": 2.1,
+    "metredTime": 5,
+    "googleMetredDistance": 2.3,
+    "googleMetredTime": 5,
+    "distanceDeviation": "8.695652173913032 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 54,
+    "metredDistance": 7.2,
+    "metredTime": 28,
+    "googleMetredDistance": 2.1,
+    "googleMetredTime": 5,
+    "distanceDeviation": "242.85714285714283 %",
+    "timeDeviation": "460 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 55,
+    "metredDistance": 3.5,
+    "metredTime": 9,
+    "googleMetredDistance": 3.7,
+    "googleMetredTime": 9,
+    "distanceDeviation": "5.40540540540541 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 56,
+    "metredDistance": 7,
+    "metredTime": 49,
+    "googleMetredDistance": 4.6,
+    "googleMetredTime": 9,
+    "distanceDeviation": "52.17391304347827 %",
+    "timeDeviation": "444.44444444444446 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 57,
+    "metredDistance": 2.1,
+    "metredTime": 6,
+    "googleMetredDistance": 2.5,
+    "googleMetredTime": 5,
+    "distanceDeviation": "15.999999999999996 %",
+    "timeDeviation": "20 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 58,
+    "metredDistance": 6,
+    "metredTime": 0,
+    "googleMetredDistance": 6.6,
+    "googleMetredTime": 12,
+    "distanceDeviation": "9.090909090909086 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 59,
+    "metredDistance": 7.9,
+    "metredTime": 22,
+    "googleMetredDistance": 4.7,
+    "googleMetredTime": 11,
+    "distanceDeviation": "68.08510638297872 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 60,
+    "metredDistance": 8.1,
+    "metredTime": 25,
+    "googleMetredDistance": 8.7,
+    "googleMetredTime": 18,
+    "distanceDeviation": "6.896551724137928 %",
+    "timeDeviation": "38.888888888888886 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 61,
+    "metredDistance": 4.3,
+    "metredTime": 12,
+    "googleMetredDistance": 4.1,
+    "googleMetredTime": 9,
+    "distanceDeviation": "4.878048780487809 %",
+    "timeDeviation": "33.333333333333336 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 62,
+    "metredDistance": 4.3,
+    "metredTime": 12,
+    "googleMetredDistance": 5,
+    "googleMetredTime": 10,
+    "distanceDeviation": "14.000000000000004 %",
+    "timeDeviation": "20 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 63,
+    "metredDistance": 3.6,
+    "metredTime": 12,
+    "googleMetredDistance": 4.1,
+    "googleMetredTime": 9,
+    "distanceDeviation": "12.195121951219503 %",
+    "timeDeviation": "33.333333333333336 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 64,
+    "metredDistance": 7.9,
+    "metredTime": 20,
+    "googleMetredDistance": 7.9,
+    "googleMetredTime": 15,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "33.333333333333336 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 65,
+    "metredDistance": 5.2,
+    "metredTime": 0,
+    "googleMetredDistance": 5.3,
+    "googleMetredTime": 13,
+    "distanceDeviation": "1.886792452830182 %",
+    "timeDeviation": "100 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 66,
+    "metredDistance": 2.9,
+    "metredTime": 11,
+    "googleMetredDistance": 2.5,
+    "googleMetredTime": 8,
+    "distanceDeviation": "15.999999999999996 %",
+    "timeDeviation": "37.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 67,
+    "metredDistance": 11.2,
+    "metredTime": 35,
+    "googleMetredDistance": 8.6,
+    "googleMetredTime": 17,
+    "distanceDeviation": "30.232558139534877 %",
+    "timeDeviation": "105.88235294117646 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 68,
+    "metredDistance": 3,
+    "metredTime": 7,
+    "googleMetredDistance": 2.7,
+    "googleMetredTime": 7,
+    "distanceDeviation": "11.111111111111104 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 69,
+    "metredDistance": 12,
+    "metredTime": 30,
+    "googleMetredDistance": 11.5,
+    "googleMetredTime": 24,
+    "distanceDeviation": "4.3478260869565215 %",
+    "timeDeviation": "25 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 70,
+    "metredDistance": 7.9,
+    "metredTime": 33,
+    "googleMetredDistance": 7.2,
+    "googleMetredTime": 12,
+    "distanceDeviation": "9.722222222222223 %",
+    "timeDeviation": "175 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 71,
+    "metredDistance": 4.1,
+    "metredTime": 0,
+    "googleMetredDistance": 4.7,
+    "googleMetredTime": 10,
+    "distanceDeviation": "12.765957446808523 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 72,
+    "metredDistance": 4.6,
+    "metredTime": 33,
+    "googleMetredDistance": 0.4,
+    "googleMetredTime": 1,
+    "distanceDeviation": "1049.9999999999998 %",
+    "timeDeviation": "3200 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 73,
+    "metredDistance": 4.6,
+    "metredTime": 12,
+    "googleMetredDistance": 4.6,
+    "googleMetredTime": 11,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "9.090909090909092 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 74,
+    "metredDistance": 4.4,
+    "metredTime": 9,
+    "googleMetredDistance": 4.2,
+    "googleMetredTime": 8,
+    "distanceDeviation": "4.761904761904766 %",
+    "timeDeviation": "12.5 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 75,
+    "metredDistance": 3.3,
+    "metredTime": 10,
+    "googleMetredDistance": 4,
+    "googleMetredTime": 9,
+    "distanceDeviation": "17.500000000000004 %",
+    "timeDeviation": "11.11111111111111 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 76,
+    "metredDistance": 2.6,
+    "metredTime": 8,
+    "googleMetredDistance": 2.9,
+    "googleMetredTime": 7,
+    "distanceDeviation": "10.344827586206891 %",
+    "timeDeviation": "14.285714285714286 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 77,
+    "metredDistance": 4.9,
+    "metredTime": 21,
+    "googleMetredDistance": 5.1,
+    "googleMetredTime": 12,
+    "distanceDeviation": "3.921568627450967 %",
+    "timeDeviation": "75 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 78,
+    "metredDistance": 2,
+    "metredTime": 31,
+    "googleMetredDistance": 0.8,
+    "googleMetredTime": 3,
+    "distanceDeviation": "150 %",
+    "timeDeviation": "933.3333333333334 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 79,
+    "metredDistance": 7.1,
+    "metredTime": 18,
+    "googleMetredDistance": 7.2,
+    "googleMetredTime": 17,
+    "distanceDeviation": "1.3888888888888962 %",
+    "timeDeviation": "5.882352941176471 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 80,
+    "metredDistance": 4,
+    "metredTime": 14,
+    "googleMetredDistance": 4.4,
+    "googleMetredTime": 9,
+    "distanceDeviation": "9.090909090909099 %",
+    "timeDeviation": "55.55555555555556 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 81,
+    "metredDistance": 4.3,
+    "metredTime": 13,
+    "googleMetredDistance": 4.5,
+    "googleMetredTime": 11,
+    "distanceDeviation": "4.444444444444448 %",
+    "timeDeviation": "18.181818181818183 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 82,
+    "metredDistance": 10.9,
+    "metredTime": 13,
+    "googleMetredDistance": 6.2,
+    "googleMetredTime": 11,
+    "distanceDeviation": "75.80645161290322 %",
+    "timeDeviation": "18.181818181818183 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 83,
+    "metredDistance": 7.5,
+    "metredTime": 43,
+    "googleMetredDistance": 4.8,
+    "googleMetredTime": 14,
+    "distanceDeviation": "56.25 %",
+    "timeDeviation": "207.14285714285714 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 84,
+    "metredDistance": 4.2,
+    "metredTime": 15,
+    "googleMetredDistance": 3.3,
+    "googleMetredTime": 8,
+    "distanceDeviation": "27.272727272727284 %",
+    "timeDeviation": "87.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 85,
+    "metredDistance": 10.3,
+    "metredTime": 31,
+    "googleMetredDistance": 8.1,
+    "googleMetredTime": 15,
+    "distanceDeviation": "27.160493827160508 %",
+    "timeDeviation": "106.66666666666667 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 86,
+    "metredDistance": 8.7,
+    "metredTime": 31,
+    "googleMetredDistance": 1.6,
+    "googleMetredTime": 5,
+    "distanceDeviation": "443.75 %",
+    "timeDeviation": "520 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 87,
+    "metredDistance": 0,
+    "metredTime": 1,
+    "googleMetredDistance": 0.4,
+    "googleMetredTime": 2,
+    "distanceDeviation": "100 %",
+    "timeDeviation": "50 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 88,
+    "metredDistance": 9.6,
+    "metredTime": 23,
+    "googleMetredDistance": 7.9,
+    "googleMetredTime": 13,
+    "distanceDeviation": "21.518987341772142 %",
+    "timeDeviation": "76.92307692307692 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 89,
+    "metredDistance": 9.2,
+    "metredTime": 25,
+    "googleMetredDistance": 10.3,
+    "googleMetredTime": 20,
+    "distanceDeviation": "10.67961165048545 %",
+    "timeDeviation": "25 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 90,
+    "metredDistance": 7.9,
+    "metredTime": 21,
+    "googleMetredDistance": 7.6,
+    "googleMetredTime": 16,
+    "distanceDeviation": "3.947368421052641 %",
+    "timeDeviation": "31.25 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 91,
+    "metredDistance": 4.4,
+    "metredTime": 12,
+    "googleMetredDistance": 4.5,
+    "googleMetredTime": 10,
+    "distanceDeviation": "2.2222222222222143 %",
+    "timeDeviation": "20 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 92,
+    "metredDistance": 12.6,
+    "metredTime": 36,
+    "googleMetredDistance": 5.2,
+    "googleMetredTime": 13,
+    "distanceDeviation": "142.3076923076923 %",
+    "timeDeviation": "176.92307692307693 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 93,
+    "metredDistance": 8.2,
+    "metredTime": 34,
+    "googleMetredDistance": 8.4,
+    "googleMetredTime": 17,
+    "distanceDeviation": "2.3809523809523934 %",
+    "timeDeviation": "100 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 94,
+    "metredDistance": 2.5,
+    "metredTime": 8,
+    "googleMetredDistance": 3.4,
+    "googleMetredTime": 6,
+    "distanceDeviation": "26.470588235294112 %",
+    "timeDeviation": "33.333333333333336 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 95,
+    "metredDistance": 2.3,
+    "metredTime": 8,
+    "googleMetredDistance": 2.5,
+    "googleMetredTime": 9,
+    "distanceDeviation": "8.000000000000007 %",
+    "timeDeviation": "11.11111111111111 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 96,
+    "metredDistance": 2,
+    "metredTime": 8,
+    "googleMetredDistance": 2,
+    "googleMetredTime": 6,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "33.333333333333336 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 97,
+    "metredDistance": 9.7,
+    "metredTime": 20,
+    "googleMetredDistance": 9.6,
+    "googleMetredTime": 19,
+    "distanceDeviation": "1.041666666666663 %",
+    "timeDeviation": "5.2631578947368425 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 98,
+    "metredDistance": 7.4,
+    "metredTime": 17,
+    "googleMetredDistance": 6.8,
+    "googleMetredTime": 15,
+    "distanceDeviation": "8.823529411764714 %",
+    "timeDeviation": "13.333333333333334 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 99,
+    "metredDistance": 4.7,
+    "metredTime": 33,
+    "googleMetredDistance": 4.3,
+    "googleMetredTime": 9,
+    "distanceDeviation": "9.302325581395358 %",
+    "timeDeviation": "266.6666666666667 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 100,
+    "metredDistance": 9.2,
+    "metredTime": 37,
+    "googleMetredDistance": 0.6,
+    "googleMetredTime": 1,
+    "distanceDeviation": "1433.3333333333335 %",
+    "timeDeviation": "3600 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 101,
+    "metredDistance": 3.4,
+    "metredTime": 9,
+    "googleMetredDistance": 3.3,
+    "googleMetredTime": 7,
+    "distanceDeviation": "3.030303030303033 %",
+    "timeDeviation": "28.571428571428573 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 102,
+    "metredDistance": 5,
+    "metredTime": 13,
+    "googleMetredDistance": 5.3,
+    "googleMetredTime": 10,
+    "distanceDeviation": "5.660377358490563 %",
+    "timeDeviation": "30 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 103,
+    "metredDistance": 2.9,
+    "metredTime": 7,
+    "googleMetredDistance": 3.2,
+    "googleMetredTime": 8,
+    "distanceDeviation": "9.375000000000009 %",
+    "timeDeviation": "12.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 104,
+    "metredDistance": 8.7,
+    "metredTime": 42,
+    "googleMetredDistance": 2.1,
+    "googleMetredTime": 6,
+    "distanceDeviation": "314.2857142857143 %",
+    "timeDeviation": "600 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 105,
+    "metredDistance": 2.9,
+    "metredTime": 8,
+    "googleMetredDistance": 2.9,
+    "googleMetredTime": 7,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "14.285714285714286 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 106,
+    "metredDistance": 2.5,
+    "metredTime": 9,
+    "googleMetredDistance": 3.8,
+    "googleMetredTime": 7,
+    "distanceDeviation": "34.210526315789465 %",
+    "timeDeviation": "28.571428571428573 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 107,
+    "metredDistance": 10,
+    "metredTime": 34,
+    "googleMetredDistance": 5,
+    "googleMetredTime": 11,
+    "distanceDeviation": "100 %",
+    "timeDeviation": "209.0909090909091 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 108,
+    "metredDistance": 0,
+    "metredTime": 11,
+    "googleMetredDistance": 1.8,
+    "googleMetredTime": 5,
+    "distanceDeviation": "100 %",
+    "timeDeviation": "120 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 109,
+    "metredDistance": 6.3,
+    "metredTime": 18,
+    "googleMetredDistance": 7.5,
+    "googleMetredTime": 18,
+    "distanceDeviation": "16.000000000000004 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 110,
+    "metredDistance": 4.8,
+    "metredTime": 23,
+    "googleMetredDistance": 4.8,
+    "googleMetredTime": 11,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "109.0909090909091 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 111,
+    "metredDistance": 2,
+    "metredTime": 25,
+    "googleMetredDistance": 0.8,
+    "googleMetredTime": 4,
+    "distanceDeviation": "150 %",
+    "timeDeviation": "525 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 112,
+    "metredDistance": 2.6,
+    "metredTime": 75,
+    "googleMetredDistance": 2.2,
+    "googleMetredTime": 8,
+    "distanceDeviation": "18.181818181818176 %",
+    "timeDeviation": "837.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 113,
+    "metredDistance": 1.6,
+    "metredTime": 9,
+    "googleMetredDistance": 1.9,
+    "googleMetredTime": 6,
+    "distanceDeviation": "15.789473684210519 %",
+    "timeDeviation": "50 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 114,
+    "metredDistance": 0,
+    "metredTime": 3,
+    "googleMetredDistance": 5.5,
+    "googleMetredTime": 12,
+    "distanceDeviation": "100 %",
+    "timeDeviation": "75 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 115,
+    "metredDistance": 8.4,
+    "metredTime": 23,
+    "googleMetredDistance": 6.8,
+    "googleMetredTime": 13,
+    "distanceDeviation": "23.52941176470589 %",
+    "timeDeviation": "76.92307692307692 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 116,
+    "metredDistance": 13,
+    "metredTime": 34,
+    "googleMetredDistance": 3.1,
+    "googleMetredTime": 6,
+    "distanceDeviation": "319.35483870967744 %",
+    "timeDeviation": "466.6666666666667 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 117,
+    "metredDistance": 3.8,
+    "metredTime": 13,
+    "googleMetredDistance": 5.2,
+    "googleMetredTime": 13,
+    "distanceDeviation": "26.923076923076927 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 118,
+    "metredDistance": 9.1,
+    "metredTime": 23,
+    "googleMetredDistance": 9.4,
+    "googleMetredTime": 22,
+    "distanceDeviation": "3.191489361702135 %",
+    "timeDeviation": "4.545454545454546 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 119,
+    "metredDistance": 9.5,
+    "metredTime": 53,
+    "googleMetredDistance": 1.1,
+    "googleMetredTime": 4,
+    "distanceDeviation": "763.6363636363636 %",
+    "timeDeviation": "1225 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 120,
+    "metredDistance": 5.1,
+    "metredTime": 14,
+    "googleMetredDistance": 5.4,
+    "googleMetredTime": 13,
+    "distanceDeviation": "5.555555555555569 %",
+    "timeDeviation": "7.6923076923076925 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 121,
+    "metredDistance": 10,
+    "metredTime": 29,
+    "googleMetredDistance": 10.2,
+    "googleMetredTime": 21,
+    "distanceDeviation": "1.9607843137254835 %",
+    "timeDeviation": "38.095238095238095 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 122,
+    "metredDistance": 9,
+    "metredTime": 25,
+    "googleMetredDistance": 4.2,
+    "googleMetredTime": 9,
+    "distanceDeviation": "114.28571428571428 %",
+    "timeDeviation": "177.77777777777777 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 123,
+    "metredDistance": 6.1,
+    "metredTime": 34,
+    "googleMetredDistance": 3.2,
+    "googleMetredTime": 10,
+    "distanceDeviation": "90.62499999999997 %",
+    "timeDeviation": "240 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 124,
+    "metredDistance": 6.2,
+    "metredTime": 24,
+    "googleMetredDistance": 61,
+    "googleMetredTime": 1,
+    "distanceDeviation": "89.8360655737705 %",
+    "timeDeviation": "2300 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 125,
+    "metredDistance": 6.1,
+    "metredTime": 18,
+    "googleMetredDistance": 6.7,
+    "googleMetredTime": 15,
+    "distanceDeviation": "8.955223880597023 %",
+    "timeDeviation": "20 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 126,
+    "metredDistance": 6.1,
+    "metredTime": 20,
+    "googleMetredDistance": 4.5,
+    "googleMetredTime": 9,
+    "distanceDeviation": "35.55555555555555 %",
+    "timeDeviation": "122.22222222222223 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 127,
+    "metredDistance": 6.5,
+    "metredTime": 18,
+    "googleMetredDistance": 6.5,
+    "googleMetredTime": 13,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "38.46153846153846 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 128,
+    "metredDistance": 1,
+    "metredTime": 9,
+    "googleMetredDistance": 1.3,
+    "googleMetredTime": 4,
+    "distanceDeviation": "23.07692307692308 %",
+    "timeDeviation": "125 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 129,
+    "metredDistance": 6,
+    "metredTime": 57,
+    "googleMetredDistance": 4.9,
+    "googleMetredTime": 10,
+    "distanceDeviation": "22.44897959183673 %",
+    "timeDeviation": "470 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 130,
+    "metredDistance": 11.7,
+    "metredTime": 42,
+    "googleMetredDistance": 6.1,
+    "googleMetredTime": 14,
+    "distanceDeviation": "91.8032786885246 %",
+    "timeDeviation": "200 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 131,
+    "metredDistance": 9.1,
+    "metredTime": 32,
+    "googleMetredDistance": 3.4,
+    "googleMetredTime": 8,
+    "distanceDeviation": "167.6470588235294 %",
+    "timeDeviation": "300 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 132,
+    "metredDistance": 2,
+    "metredTime": 12,
+    "googleMetredDistance": 2.6,
+    "googleMetredTime": 8,
+    "distanceDeviation": "23.07692307692308 %",
+    "timeDeviation": "50 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 133,
+    "metredDistance": 7,
+    "metredTime": 20,
+    "googleMetredDistance": 7,
+    "googleMetredTime": 16,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "25 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 134,
+    "metredDistance": 1.1,
+    "metredTime": 3,
+    "googleMetredDistance": 1.1,
+    "googleMetredTime": 2,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "50 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 135,
+    "metredDistance": 4.7,
+    "metredTime": 14,
+    "googleMetredDistance": 5.4,
+    "googleMetredTime": 11,
+    "distanceDeviation": "12.962962962962965 %",
+    "timeDeviation": "27.272727272727273 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 136,
+    "metredDistance": 6.1,
+    "metredTime": 14,
+    "googleMetredDistance": 5.1,
+    "googleMetredTime": 11,
+    "distanceDeviation": "19.607843137254903 %",
+    "timeDeviation": "27.272727272727273 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 137,
+    "metredDistance": 9.7,
+    "metredTime": 51,
+    "googleMetredDistance": 8.2,
+    "googleMetredTime": 18,
+    "distanceDeviation": "18.29268292682927 %",
+    "timeDeviation": "183.33333333333334 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 138,
+    "metredDistance": 11.3,
+    "metredTime": 35,
+    "googleMetredDistance": 5.7,
+    "googleMetredTime": 12,
+    "distanceDeviation": "98.24561403508771 %",
+    "timeDeviation": "191.66666666666666 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 139,
+    "metredDistance": 5.1,
+    "metredTime": 16,
+    "googleMetredDistance": 4.2,
+    "googleMetredTime": 11,
+    "distanceDeviation": "21.428571428571413 %",
+    "timeDeviation": "45.45454545454545 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 140,
+    "metredDistance": 4.1,
+    "metredTime": 21,
+    "googleMetredDistance": 3.7,
+    "googleMetredTime": 8,
+    "distanceDeviation": "10.810810810810795 %",
+    "timeDeviation": "162.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 141,
+    "metredDistance": 12.9,
+    "metredTime": 22,
+    "googleMetredDistance": 8.1,
+    "googleMetredTime": 19,
+    "distanceDeviation": "59.25925925925927 %",
+    "timeDeviation": "15.789473684210526 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 142,
+    "metredDistance": 8.7,
+    "metredTime": 36,
+    "googleMetredDistance": 2,
+    "googleMetredTime": 5,
+    "distanceDeviation": "334.99999999999994 %",
+    "timeDeviation": "620 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 143,
+    "metredDistance": 4.3,
+    "metredTime": 18,
+    "googleMetredDistance": 4.7,
+    "googleMetredTime": 9,
+    "distanceDeviation": "8.510638297872347 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 144,
+    "metredDistance": 5.4,
+    "metredTime": 19,
+    "googleMetredDistance": 5.5,
+    "googleMetredTime": 14,
+    "distanceDeviation": "1.8181818181818117 %",
+    "timeDeviation": "35.714285714285715 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 145,
+    "metredDistance": 7.1,
+    "metredTime": 25,
+    "googleMetredDistance": 6.6,
+    "googleMetredTime": 14,
+    "distanceDeviation": "7.575757575757576 %",
+    "timeDeviation": "78.57142857142857 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 146,
+    "metredDistance": 8.6,
+    "metredTime": 25,
+    "googleMetredDistance": 9.5,
+    "googleMetredTime": 18,
+    "distanceDeviation": "9.473684210526319 %",
+    "timeDeviation": "38.888888888888886 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 147,
+    "metredDistance": 3.6,
+    "metredTime": 11,
+    "googleMetredDistance": 5,
+    "googleMetredTime": 11,
+    "distanceDeviation": "28 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 148,
+    "metredDistance": 14.7,
+    "metredTime": 33,
+    "googleMetredDistance": 11.8,
+    "googleMetredTime": 20,
+    "distanceDeviation": "24.576271186440668 %",
+    "timeDeviation": "65 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 149,
+    "metredDistance": 7.6,
+    "metredTime": 31,
+    "googleMetredDistance": 5,
+    "googleMetredTime": 10,
+    "distanceDeviation": "51.999999999999986 %",
+    "timeDeviation": "210 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 150,
+    "metredDistance": 2.8,
+    "metredTime": 7,
+    "googleMetredDistance": 3.8,
+    "googleMetredTime": 8,
+    "distanceDeviation": "26.315789473684212 %",
+    "timeDeviation": "12.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 151,
+    "metredDistance": 12.7,
+    "metredTime": 41,
+    "googleMetredDistance": 13,
+    "googleMetredTime": 27,
+    "distanceDeviation": "2.3076923076923133 %",
+    "timeDeviation": "51.851851851851855 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 152,
+    "metredDistance": 15.4,
+    "metredTime": 23,
+    "googleMetredDistance": 7.2,
+    "googleMetredTime": 14,
+    "distanceDeviation": "113.88888888888887 %",
+    "timeDeviation": "64.28571428571429 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 153,
+    "metredDistance": 12.7,
+    "metredTime": 50,
+    "googleMetredDistance": 6.3,
+    "googleMetredTime": 11,
+    "distanceDeviation": "101.5873015873016 %",
+    "timeDeviation": "354.54545454545456 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 154,
+    "metredDistance": 5.7,
+    "metredTime": 19,
+    "googleMetredDistance": 5.3,
+    "googleMetredTime": 12,
+    "distanceDeviation": "7.547169811320762 %",
+    "timeDeviation": "58.333333333333336 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 155,
+    "metredDistance": 7.6,
+    "metredTime": 28,
+    "googleMetredDistance": 5.2,
+    "googleMetredTime": 14,
+    "distanceDeviation": "46.15384615384614 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 156,
+    "metredDistance": 11,
+    "metredTime": 30,
+    "googleMetredDistance": 14.1,
+    "googleMetredTime": 26,
+    "distanceDeviation": "21.985815602836876 %",
+    "timeDeviation": "15.384615384615385 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 157,
+    "metredDistance": 10.2,
+    "metredTime": 24,
+    "googleMetredDistance": 3.7,
+    "googleMetredTime": 9,
+    "distanceDeviation": "175.67567567567565 %",
+    "timeDeviation": "166.66666666666666 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 158,
+    "metredDistance": 4.9,
+    "metredTime": 13,
+    "googleMetredDistance": 4.4,
+    "googleMetredTime": 12,
+    "distanceDeviation": "11.363636363636363 %",
+    "timeDeviation": "8.333333333333334 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 159,
+    "metredDistance": 7.5,
+    "metredTime": 51,
+    "googleMetredDistance": 8,
+    "googleMetredTime": 18,
+    "distanceDeviation": "6.25 %",
+    "timeDeviation": "183.33333333333334 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 160,
+    "metredDistance": 18,
+    "metredTime": 3,
+    "googleMetredDistance": 17.6,
+    "googleMetredTime": 33,
+    "distanceDeviation": "2.2727272727272645 %",
+    "timeDeviation": "90.9090909090909 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 161,
+    "metredDistance": 9.4,
+    "metredTime": 23,
+    "googleMetredDistance": 7.8,
+    "googleMetredTime": 18,
+    "distanceDeviation": "20.51282051282052 %",
+    "timeDeviation": "27.77777777777778 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 162,
+    "metredDistance": 2.6,
+    "metredTime": 0,
+    "googleMetredDistance": 3.3,
+    "googleMetredTime": 7,
+    "distanceDeviation": "21.212121212121204 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 163,
+    "metredDistance": 3.1,
+    "metredTime": 9,
+    "googleMetredDistance": 3.1,
+    "googleMetredTime": 6,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "50 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 164,
+    "metredDistance": 4.9,
+    "metredTime": 69,
+    "googleMetredDistance": 0.2,
+    "googleMetredTime": 1,
+    "distanceDeviation": "2350 %",
+    "timeDeviation": "6800 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 165,
+    "metredDistance": 9.1,
+    "metredTime": 22,
+    "googleMetredDistance": 9.9,
+    "googleMetredTime": 18,
+    "distanceDeviation": "8.080808080808088 %",
+    "timeDeviation": "22.22222222222222 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 166,
+    "metredDistance": 5.1,
+    "metredTime": 17,
+    "googleMetredDistance": 4,
+    "googleMetredTime": 9,
+    "distanceDeviation": "27.499999999999993 %",
+    "timeDeviation": "88.88888888888889 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 167,
+    "metredDistance": 8.3,
+    "metredTime": 0,
+    "googleMetredDistance": 7,
+    "googleMetredTime": 14,
+    "distanceDeviation": "18.57142857142858 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 168,
+    "metredDistance": 8.2,
+    "metredTime": 20,
+    "googleMetredDistance": 4.7,
+    "googleMetredTime": 10,
+    "distanceDeviation": "74.46808510638296 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 169,
+    "metredDistance": 7.9,
+    "metredTime": 0,
+    "googleMetredDistance": 8.1,
+    "googleMetredTime": 16,
+    "distanceDeviation": "2.4691358024691272 %",
+    "timeDeviation": "100 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 170,
+    "metredDistance": 6.4,
+    "metredTime": 55,
+    "googleMetredDistance": 5.5,
+    "googleMetredTime": 16,
+    "distanceDeviation": "16.36363636363637 %",
+    "timeDeviation": "243.75 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 171,
+    "metredDistance": 5.8,
+    "metredTime": 2,
+    "googleMetredDistance": 5,
+    "googleMetredTime": 9,
+    "distanceDeviation": "15.999999999999996 %",
+    "timeDeviation": "77.77777777777777 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 172,
+    "metredDistance": 28.2,
+    "metredTime": 83,
+    "googleMetredDistance": 1,
+    "googleMetredTime": 3,
+    "distanceDeviation": "2720 %",
+    "timeDeviation": "2666.6666666666665 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 173,
+    "metredDistance": 6.1,
+    "metredTime": 18,
+    "googleMetredDistance": 3,
+    "googleMetredTime": 7,
+    "distanceDeviation": "103.33333333333331 %",
+    "timeDeviation": "157.14285714285714 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 174,
+    "metredDistance": 4.9,
+    "metredTime": 9,
+    "googleMetredDistance": 5,
+    "googleMetredTime": 9,
+    "distanceDeviation": "1.999999999999993 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 175,
+    "metredDistance": 10.8,
+    "metredTime": 20,
+    "googleMetredDistance": 11.4,
+    "googleMetredTime": 20,
+    "distanceDeviation": "5.263157894736839 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 176,
+    "metredDistance": 10,
+    "metredTime": 35,
+    "googleMetredDistance": 11.2,
+    "googleMetredTime": 23,
+    "distanceDeviation": "10.714285714285708 %",
+    "timeDeviation": "52.17391304347826 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 177,
+    "metredDistance": 13.8,
+    "metredTime": 43,
+    "googleMetredDistance": 13.2,
+    "googleMetredTime": 25,
+    "distanceDeviation": "4.5454545454545565 %",
+    "timeDeviation": "72 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 178,
+    "metredDistance": 9.4,
+    "metredTime": 19,
+    "googleMetredDistance": 9.6,
+    "googleMetredTime": 19,
+    "distanceDeviation": "2.083333333333326 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 179,
+    "metredDistance": 0.1,
+    "metredTime": 7,
+    "googleMetredDistance": 20,
+    "googleMetredTime": 1,
+    "distanceDeviation": "99.49999999999999 %",
+    "timeDeviation": "600 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 180,
+    "metredDistance": 9.6,
+    "metredTime": 47,
+    "googleMetredDistance": 9.6,
+    "googleMetredTime": 19,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "147.3684210526316 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 181,
+    "metredDistance": 3.2,
+    "metredTime": 51,
+    "googleMetredDistance": 2.6,
+    "googleMetredTime": 7,
+    "distanceDeviation": "23.07692307692308 %",
+    "timeDeviation": "628.5714285714286 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 182,
+    "metredDistance": 8.2,
+    "metredTime": 31,
+    "googleMetredDistance": 0.2,
+    "googleMetredTime": 1,
+    "distanceDeviation": "3999.999999999999 %",
+    "timeDeviation": "3000 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 183,
+    "metredDistance": 5.4,
+    "metredTime": 16,
+    "googleMetredDistance": 4.5,
+    "googleMetredTime": 10,
+    "distanceDeviation": "20.000000000000007 %",
+    "timeDeviation": "60 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 184,
+    "metredDistance": 13.9,
+    "metredTime": 29,
+    "googleMetredDistance": 13.1,
+    "googleMetredTime": 26,
+    "distanceDeviation": "6.106870229007639 %",
+    "timeDeviation": "11.538461538461538 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 185,
+    "metredDistance": 14.3,
+    "metredTime": 32,
+    "googleMetredDistance": 13.5,
+    "googleMetredTime": 25,
+    "distanceDeviation": "5.925925925925931 %",
+    "timeDeviation": "28 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 186,
+    "metredDistance": 9.6,
+    "metredTime": 19,
+    "googleMetredDistance": 10.1,
+    "googleMetredTime": 18,
+    "distanceDeviation": "4.9504950495049505 %",
+    "timeDeviation": "5.555555555555555 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 187,
+    "metredDistance": 12.8,
+    "metredTime": 32,
+    "googleMetredDistance": 13.7,
+    "googleMetredTime": 28,
+    "distanceDeviation": "6.56934306569342 %",
+    "timeDeviation": "14.285714285714286 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 188,
+    "metredDistance": 4.8,
+    "metredTime": 12,
+    "googleMetredDistance": 5.1,
+    "googleMetredTime": 10,
+    "distanceDeviation": "5.8823529411764675 %",
+    "timeDeviation": "20 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 189,
+    "metredDistance": 4.3,
+    "metredTime": 14,
+    "googleMetredDistance": 4.1,
+    "googleMetredTime": 10,
+    "distanceDeviation": "4.878048780487809 %",
+    "timeDeviation": "40 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 190,
+    "metredDistance": 3.7,
+    "metredTime": 9,
+    "googleMetredDistance": 4.1,
+    "googleMetredTime": 10,
+    "distanceDeviation": "9.756097560975597 %",
+    "timeDeviation": "10 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 191,
+    "metredDistance": 4.7,
+    "metredTime": 15,
+    "googleMetredDistance": 5.7,
+    "googleMetredTime": 13,
+    "distanceDeviation": "17.543859649122805 %",
+    "timeDeviation": "15.384615384615385 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 192,
+    "metredDistance": 10.4,
+    "metredTime": 27,
+    "googleMetredDistance": 41,
+    "googleMetredTime": 1,
+    "distanceDeviation": "74.63414634146342 %",
+    "timeDeviation": "2600 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 193,
+    "metredDistance": 3.3,
+    "metredTime": 9,
+    "googleMetredDistance": 4.1,
+    "googleMetredTime": 11,
+    "distanceDeviation": "19.51219512195122 %",
+    "timeDeviation": "18.181818181818183 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 194,
+    "metredDistance": 7.8,
+    "metredTime": 19,
+    "googleMetredDistance": 8.4,
+    "googleMetredTime": 17,
+    "distanceDeviation": "7.1428571428571495 %",
+    "timeDeviation": "11.764705882352942 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 195,
+    "metredDistance": 2.8,
+    "metredTime": 9,
+    "googleMetredDistance": 2.8,
+    "googleMetredTime": 10,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "10 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 196,
+    "metredDistance": 8.7,
+    "metredTime": 42,
+    "googleMetredDistance": 5.4,
+    "googleMetredTime": 12,
+    "distanceDeviation": "61.111111111111086 %",
+    "timeDeviation": "250 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 197,
+    "metredDistance": 7.2,
+    "metredTime": 20,
+    "googleMetredDistance": 7.5,
+    "googleMetredTime": 16,
+    "distanceDeviation": "3.999999999999998 %",
+    "timeDeviation": "25 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 198,
+    "metredDistance": 6,
+    "metredTime": 13,
+    "googleMetredDistance": 5.2,
+    "googleMetredTime": 11,
+    "distanceDeviation": "15.384615384615381 %",
+    "timeDeviation": "18.181818181818183 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 199,
+    "metredDistance": 1.3,
+    "metredTime": 7,
+    "googleMetredDistance": 6.7,
+    "googleMetredTime": 18,
+    "distanceDeviation": "80.59701492537313 %",
+    "timeDeviation": "61.111111111111114 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 200,
+    "metredDistance": 11.5,
+    "metredTime": 27,
+    "googleMetredDistance": 11.9,
+    "googleMetredTime": 21,
+    "distanceDeviation": "3.3613445378151288 %",
+    "timeDeviation": "28.571428571428573 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 201,
+    "metredDistance": 2.7,
+    "metredTime": 7,
+    "googleMetredDistance": 3.6,
+    "googleMetredTime": 7,
+    "distanceDeviation": "24.999999999999996 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 202,
+    "metredDistance": 7.1,
+    "metredTime": 16,
+    "googleMetredDistance": 7.3,
+    "googleMetredTime": 16,
+    "distanceDeviation": "2.739726027397263 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 203,
+    "metredDistance": 9.1,
+    "metredTime": 35,
+    "googleMetredDistance": 8.9,
+    "googleMetredTime": 17,
+    "distanceDeviation": "2.247191011235947 %",
+    "timeDeviation": "105.88235294117646 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 204,
+    "metredDistance": 11.7,
+    "metredTime": 37,
+    "googleMetredDistance": 11.5,
+    "googleMetredTime": 22,
+    "distanceDeviation": "1.7391304347826024 %",
+    "timeDeviation": "68.18181818181819 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 205,
+    "metredDistance": 8.2,
+    "metredTime": 43,
+    "googleMetredDistance": 6.1,
+    "googleMetredTime": 13,
+    "distanceDeviation": "34.42622950819672 %",
+    "timeDeviation": "230.76923076923077 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 206,
+    "metredDistance": 6.3,
+    "metredTime": 15,
+    "googleMetredDistance": 6.4,
+    "googleMetredTime": 15,
+    "distanceDeviation": "1.5625000000000082 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 207,
+    "metredDistance": 9.4,
+    "metredTime": 29,
+    "googleMetredDistance": 9.3,
+    "googleMetredTime": 19,
+    "distanceDeviation": "1.0752688172042972 %",
+    "timeDeviation": "52.63157894736842 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 208,
+    "metredDistance": 4.6,
+    "metredTime": 11,
+    "googleMetredDistance": 5.2,
+    "googleMetredTime": 12,
+    "distanceDeviation": "11.538461538461549 %",
+    "timeDeviation": "8.333333333333334 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 209,
+    "metredDistance": 4.5,
+    "metredTime": 22,
+    "googleMetredDistance": 3.4,
+    "googleMetredTime": 8,
+    "distanceDeviation": "32.352941176470594 %",
+    "timeDeviation": "175 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 210,
+    "metredDistance": 5.4,
+    "metredTime": 19,
+    "googleMetredDistance": 5.8,
+    "googleMetredTime": 13,
+    "distanceDeviation": "6.896551724137922 %",
+    "timeDeviation": "46.15384615384615 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 211,
+    "metredDistance": 5.4,
+    "metredTime": 17,
+    "googleMetredDistance": 5.8,
+    "googleMetredTime": 13,
+    "distanceDeviation": "6.896551724137922 %",
+    "timeDeviation": "30.76923076923077 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 212,
+    "metredDistance": 7.4,
+    "metredTime": 27,
+    "googleMetredDistance": 6.2,
+    "googleMetredTime": 14,
+    "distanceDeviation": "19.35483870967742 %",
+    "timeDeviation": "92.85714285714286 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 213,
+    "metredDistance": 4.7,
+    "metredTime": 14,
+    "googleMetredDistance": 4.7,
+    "googleMetredTime": 12,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "16.666666666666668 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 214,
+    "metredDistance": 7.8,
+    "metredTime": 19,
+    "googleMetredDistance": 7.3,
+    "googleMetredTime": 15,
+    "distanceDeviation": "6.8493150684931505 %",
+    "timeDeviation": "26.666666666666668 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 215,
+    "metredDistance": 6.3,
+    "metredTime": 16,
+    "googleMetredDistance": 6.2,
+    "googleMetredTime": 12,
+    "distanceDeviation": "1.6129032258064457 %",
+    "timeDeviation": "33.333333333333336 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 216,
+    "metredDistance": 2.5,
+    "metredTime": 9,
+    "googleMetredDistance": 2.8,
+    "googleMetredTime": 8,
+    "distanceDeviation": "10.714285714285708 %",
+    "timeDeviation": "12.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 217,
+    "metredDistance": 1.7,
+    "metredTime": 9,
+    "googleMetredDistance": 0.5,
+    "googleMetredTime": 3,
+    "distanceDeviation": "240 %",
+    "timeDeviation": "200 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 218,
+    "metredDistance": 4.7,
+    "metredTime": 34,
+    "googleMetredDistance": 4.6,
+    "googleMetredTime": 12,
+    "distanceDeviation": "2.1739130434782727 %",
+    "timeDeviation": "183.33333333333334 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 219,
+    "metredDistance": 3.9,
+    "metredTime": 10,
+    "googleMetredDistance": 4.2,
+    "googleMetredTime": 10,
+    "distanceDeviation": "7.1428571428571495 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 220,
+    "metredDistance": 6.4,
+    "metredTime": 16,
+    "googleMetredDistance": 7.2,
+    "googleMetredTime": 13,
+    "distanceDeviation": "11.111111111111109 %",
+    "timeDeviation": "23.076923076923077 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 221,
+    "metredDistance": 7.3,
+    "metredTime": 33,
+    "googleMetredDistance": 6.6,
+    "googleMetredTime": 14,
+    "distanceDeviation": "10.606060606060609 %",
+    "timeDeviation": "135.71428571428572 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 222,
+    "metredDistance": 6.8,
+    "metredTime": 40,
+    "googleMetredDistance": 6.6,
+    "googleMetredTime": 14,
+    "distanceDeviation": "3.030303030303033 %",
+    "timeDeviation": "185.71428571428572 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 223,
+    "metredDistance": 4,
+    "metredTime": 10,
+    "googleMetredDistance": 3.4,
+    "googleMetredTime": 7,
+    "distanceDeviation": "17.647058823529413 %",
+    "timeDeviation": "42.857142857142854 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 224,
+    "metredDistance": 3.5,
+    "metredTime": 8,
+    "googleMetredDistance": 3.7,
+    "googleMetredTime": 6,
+    "distanceDeviation": "5.40540540540541 %",
+    "timeDeviation": "33.333333333333336 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 225,
+    "metredDistance": 2.6,
+    "metredTime": 7,
+    "googleMetredDistance": 1.8,
+    "googleMetredTime": 5,
+    "distanceDeviation": "44.44444444444444 %",
+    "timeDeviation": "40 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 226,
+    "metredDistance": 8.9,
+    "metredTime": 23,
+    "googleMetredDistance": 9.2,
+    "googleMetredTime": 18,
+    "distanceDeviation": "3.26086956521738 %",
+    "timeDeviation": "27.77777777777778 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 227,
+    "metredDistance": 6.5,
+    "metredTime": 16,
+    "googleMetredDistance": 7.7,
+    "googleMetredTime": 16,
+    "distanceDeviation": "15.584415584415586 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 228,
+    "metredDistance": 9.2,
+    "metredTime": 29,
+    "googleMetredDistance": 8.8,
+    "googleMetredTime": 19,
+    "distanceDeviation": "4.545454545454529 %",
+    "timeDeviation": "52.63157894736842 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 229,
+    "metredDistance": 13.2,
+    "metredTime": 31,
+    "googleMetredDistance": 12.8,
+    "googleMetredTime": 25,
+    "distanceDeviation": "3.124999999999989 %",
+    "timeDeviation": "24 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 230,
+    "metredDistance": 17.6,
+    "metredTime": 39,
+    "googleMetredDistance": 16.7,
+    "googleMetredTime": 30,
+    "distanceDeviation": "5.38922155688624 %",
+    "timeDeviation": "30 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 231,
+    "metredDistance": 11.1,
+    "metredTime": 34,
+    "googleMetredDistance": 5.7,
+    "googleMetredTime": 13,
+    "distanceDeviation": "94.73684210526315 %",
+    "timeDeviation": "161.53846153846155 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 232,
+    "metredDistance": 7.7,
+    "metredTime": 17,
+    "googleMetredDistance": 8.8,
+    "googleMetredTime": 16,
+    "distanceDeviation": "12.500000000000005 %",
+    "timeDeviation": "6.25 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 233,
+    "metredDistance": 2.6,
+    "metredTime": 24,
+    "googleMetredDistance": 2.1,
+    "googleMetredTime": 5,
+    "distanceDeviation": "23.80952380952381 %",
+    "timeDeviation": "380 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 234,
+    "metredDistance": 8.9,
+    "metredTime": 21,
+    "googleMetredDistance": 9,
+    "googleMetredTime": 18,
+    "distanceDeviation": "1.1111111111111072 %",
+    "timeDeviation": "16.666666666666668 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 235,
+    "metredDistance": 2.9,
+    "metredTime": 10,
+    "googleMetredDistance": 2.8,
+    "googleMetredTime": 7,
+    "distanceDeviation": "3.5714285714285747 %",
+    "timeDeviation": "42.857142857142854 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 236,
+    "metredDistance": 10.3,
+    "metredTime": 26,
+    "googleMetredDistance": 1.6,
+    "googleMetredTime": 4,
+    "distanceDeviation": "543.75 %",
+    "timeDeviation": "550 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 237,
+    "metredDistance": 5.4,
+    "metredTime": 13,
+    "googleMetredDistance": 5.2,
+    "googleMetredTime": 12,
+    "distanceDeviation": "3.8461538461538494 %",
+    "timeDeviation": "8.333333333333334 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 238,
+    "metredDistance": 11.4,
+    "metredTime": 25,
+    "googleMetredDistance": 7,
+    "googleMetredTime": 13,
+    "distanceDeviation": "62.85714285714287 %",
+    "timeDeviation": "92.3076923076923 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 239,
+    "metredDistance": 1.3,
+    "metredTime": 6,
+    "googleMetredDistance": 1.4,
+    "googleMetredTime": 5,
+    "distanceDeviation": "7.1428571428571335 %",
+    "timeDeviation": "20 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 240,
+    "metredDistance": 2.7,
+    "metredTime": 10,
+    "googleMetredDistance": 4.2,
+    "googleMetredTime": 10,
+    "distanceDeviation": "35.714285714285715 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 241,
+    "metredDistance": 8.7,
+    "metredTime": 30,
+    "googleMetredDistance": 1.3,
+    "googleMetredTime": 3,
+    "distanceDeviation": "569.2307692307692 %",
+    "timeDeviation": "900 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 242,
+    "metredDistance": 11.9,
+    "metredTime": 27,
+    "googleMetredDistance": 12.1,
+    "googleMetredTime": 23,
+    "distanceDeviation": "1.6528925619834653 %",
+    "timeDeviation": "17.391304347826086 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 243,
+    "metredDistance": 4.6,
+    "metredTime": 11,
+    "googleMetredDistance": 4.7,
+    "googleMetredTime": 10,
+    "distanceDeviation": "2.127659574468096 %",
+    "timeDeviation": "10 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 244,
+    "metredDistance": 6.4,
+    "metredTime": 35,
+    "googleMetredDistance": 5.9,
+    "googleMetredTime": 13,
+    "distanceDeviation": "8.47457627118644 %",
+    "timeDeviation": "169.23076923076923 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 245,
+    "metredDistance": 4,
+    "metredTime": 60,
+    "googleMetredDistance": 3.9,
+    "googleMetredTime": 9,
+    "distanceDeviation": "2.5641025641025665 %",
+    "timeDeviation": "566.6666666666666 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 246,
+    "metredDistance": 10.7,
+    "metredTime": 27,
+    "googleMetredDistance": 9.1,
+    "googleMetredTime": 17,
+    "distanceDeviation": "17.58241758241758 %",
+    "timeDeviation": "58.8235294117647 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 247,
+    "metredDistance": 7.6,
+    "metredTime": 18,
+    "googleMetredDistance": 7.9,
+    "googleMetredTime": 17,
+    "distanceDeviation": "3.7974683544303884 %",
+    "timeDeviation": "5.882352941176471 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 248,
+    "metredDistance": 9.6,
+    "metredTime": 33,
+    "googleMetredDistance": 5.6,
+    "googleMetredTime": 13,
+    "distanceDeviation": "71.42857142857143 %",
+    "timeDeviation": "153.84615384615384 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 249,
+    "metredDistance": 0.4,
+    "metredTime": 13,
+    "googleMetredDistance": 0.5,
+    "googleMetredTime": 2,
+    "distanceDeviation": "19.999999999999996 %",
+    "timeDeviation": "550 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 250,
+    "metredDistance": 6.6,
+    "metredTime": 43,
+    "googleMetredDistance": 2.7,
+    "googleMetredTime": 7,
+    "distanceDeviation": "144.4444444444444 %",
+    "timeDeviation": "514.2857142857143 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 251,
+    "metredDistance": 9.4,
+    "metredTime": 0,
+    "googleMetredDistance": 8,
+    "googleMetredTime": 17,
+    "distanceDeviation": "17.500000000000004 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 252,
+    "metredDistance": 9.9,
+    "metredTime": 33,
+    "googleMetredDistance": 10.8,
+    "googleMetredTime": 20,
+    "distanceDeviation": "8.333333333333336 %",
+    "timeDeviation": "65 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 253,
+    "metredDistance": 2.5,
+    "metredTime": 7,
+    "googleMetredDistance": 3.4,
+    "googleMetredTime": 7,
+    "distanceDeviation": "26.470588235294112 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 254,
+    "metredDistance": 2,
+    "metredTime": 20,
+    "googleMetredDistance": 3.2,
+    "googleMetredTime": 7,
+    "distanceDeviation": "37.5 %",
+    "timeDeviation": "185.71428571428572 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 255,
+    "metredDistance": 7,
+    "metredTime": 17,
+    "googleMetredDistance": 6.4,
+    "googleMetredTime": 15,
+    "distanceDeviation": "9.374999999999995 %",
+    "timeDeviation": "13.333333333333334 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 256,
+    "metredDistance": 5.5,
+    "metredTime": 15,
+    "googleMetredDistance": 4.4,
+    "googleMetredTime": 9,
+    "distanceDeviation": "24.999999999999993 %",
+    "timeDeviation": "66.66666666666667 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 257,
+    "metredDistance": 17.1,
+    "metredTime": 59,
+    "googleMetredDistance": 16,
+    "googleMetredTime": 33,
+    "distanceDeviation": "6.875000000000009 %",
+    "timeDeviation": "78.78787878787878 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 258,
+    "metredDistance": 3.8,
+    "metredTime": 12,
+    "googleMetredDistance": 3.7,
+    "googleMetredTime": 10,
+    "distanceDeviation": "2.702702702702693 %",
+    "timeDeviation": "20 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 259,
+    "metredDistance": 12.4,
+    "metredTime": 31,
+    "googleMetredDistance": 11.5,
+    "googleMetredTime": 24,
+    "distanceDeviation": "7.826086956521742 %",
+    "timeDeviation": "29.166666666666668 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 260,
+    "metredDistance": 7.8,
+    "metredTime": 50,
+    "googleMetredDistance": 71,
+    "googleMetredTime": 1,
+    "distanceDeviation": "89.01408450704226 %",
+    "timeDeviation": "4900 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 261,
+    "metredDistance": 10.3,
+    "metredTime": 27,
+    "googleMetredDistance": 5,
+    "googleMetredTime": 13,
+    "distanceDeviation": "106.00000000000003 %",
+    "timeDeviation": "107.6923076923077 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 262,
+    "metredDistance": 5.4,
+    "metredTime": 12,
+    "googleMetredDistance": 4.8,
+    "googleMetredTime": 8,
+    "distanceDeviation": "12.500000000000012 %",
+    "timeDeviation": "50 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 263,
+    "metredDistance": 7.6,
+    "metredTime": 32,
+    "googleMetredDistance": 5.4,
+    "googleMetredTime": 12,
+    "distanceDeviation": "40.740740740740726 %",
+    "timeDeviation": "166.66666666666666 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 264,
+    "metredDistance": 5.6,
+    "metredTime": 14,
+    "googleMetredDistance": 5.6,
+    "googleMetredTime": 13,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "7.6923076923076925 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 265,
+    "metredDistance": 9.6,
+    "metredTime": 24,
+    "googleMetredDistance": 9.4,
+    "googleMetredTime": 21,
+    "distanceDeviation": "2.1276595744680775 %",
+    "timeDeviation": "14.285714285714286 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 266,
+    "metredDistance": 2.1,
+    "metredTime": 7,
+    "googleMetredDistance": 2.3,
+    "googleMetredTime": 8,
+    "distanceDeviation": "8.695652173913032 %",
+    "timeDeviation": "12.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 267,
+    "metredDistance": 9,
+    "metredTime": 32,
+    "googleMetredDistance": 7,
+    "googleMetredTime": 16,
+    "distanceDeviation": "28.571428571428573 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 268,
+    "metredDistance": 3.8,
+    "metredTime": 10,
+    "googleMetredDistance": 4.1,
+    "googleMetredTime": 8,
+    "distanceDeviation": "7.317073170731704 %",
+    "timeDeviation": "25 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 269,
+    "metredDistance": 3.9,
+    "metredTime": 10,
+    "googleMetredDistance": 5,
+    "googleMetredTime": 10,
+    "distanceDeviation": "22.000000000000004 %",
+    "timeDeviation": "0 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 270,
+    "metredDistance": 4.9,
+    "metredTime": 20,
+    "googleMetredDistance": 4.5,
+    "googleMetredTime": 11,
+    "distanceDeviation": "8.888888888888896 %",
+    "timeDeviation": "81.81818181818181 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 271,
+    "metredDistance": 1.8,
+    "metredTime": 6,
+    "googleMetredDistance": 2.8,
+    "googleMetredTime": 7,
+    "distanceDeviation": "35.71428571428571 %",
+    "timeDeviation": "14.285714285714286 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 272,
+    "metredDistance": 9.1,
+    "metredTime": 28,
+    "googleMetredDistance": 8.4,
+    "googleMetredTime": 18,
+    "distanceDeviation": "8.333333333333325 %",
+    "timeDeviation": "55.55555555555556 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 273,
+    "metredDistance": 10.2,
+    "metredTime": 30,
+    "googleMetredDistance": 4.6,
+    "googleMetredTime": 11,
+    "distanceDeviation": "121.73913043478262 %",
+    "timeDeviation": "172.72727272727272 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 274,
+    "metredDistance": 5.8,
+    "metredTime": 29,
+    "googleMetredDistance": 2.2,
+    "googleMetredTime": 6,
+    "distanceDeviation": "163.6363636363636 %",
+    "timeDeviation": "383.3333333333333 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 275,
+    "metredDistance": 1.7,
+    "metredTime": 13,
+    "googleMetredDistance": 1,
+    "googleMetredTime": 2,
+    "distanceDeviation": "70 %",
+    "timeDeviation": "550 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 276,
+    "metredDistance": 6.9,
+    "metredTime": 21,
+    "googleMetredDistance": 6.8,
+    "googleMetredTime": 13,
+    "distanceDeviation": "1.4705882352941255 %",
+    "timeDeviation": "61.53846153846154 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 277,
+    "metredDistance": 10.3,
+    "metredTime": 25,
+    "googleMetredDistance": 11.8,
+    "googleMetredTime": 21,
+    "distanceDeviation": "12.711864406779661 %",
+    "timeDeviation": "19.047619047619047 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 278,
+    "metredDistance": 4.3,
+    "metredTime": 11,
+    "googleMetredDistance": 4.9,
+    "googleMetredTime": 12,
+    "distanceDeviation": "12.244897959183684 %",
+    "timeDeviation": "8.333333333333334 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 279,
+    "metredDistance": 6.7,
+    "metredTime": 17,
+    "googleMetredDistance": 7.1,
+    "googleMetredTime": 15,
+    "distanceDeviation": "5.633802816901401 %",
+    "timeDeviation": "13.333333333333334 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 280,
+    "metredDistance": 3.8,
+    "metredTime": 14,
+    "googleMetredDistance": 4.2,
+    "googleMetredTime": 9,
+    "distanceDeviation": "9.523809523809533 %",
+    "timeDeviation": "55.55555555555556 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 281,
+    "metredDistance": 11.6,
+    "metredTime": 34,
+    "googleMetredDistance": 12.3,
+    "googleMetredTime": 22,
+    "distanceDeviation": "5.691056910569115 %",
+    "timeDeviation": "54.54545454545455 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 282,
+    "metredDistance": 5.9,
+    "metredTime": 15,
+    "googleMetredDistance": 6.3,
+    "googleMetredTime": 14,
+    "distanceDeviation": "6.34920634920634 %",
+    "timeDeviation": "7.142857142857143 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 283,
+    "metredDistance": 9.2,
+    "metredTime": 22,
+    "googleMetredDistance": 9.5,
+    "googleMetredTime": 18,
+    "distanceDeviation": "3.157894736842113 %",
+    "timeDeviation": "22.22222222222222 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 284,
+    "metredDistance": 2.5,
+    "metredTime": 7,
+    "googleMetredDistance": 3.3,
+    "googleMetredTime": 11,
+    "distanceDeviation": "24.24242424242424 %",
+    "timeDeviation": "36.36363636363637 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 285,
+    "metredDistance": 9.6,
+    "metredTime": 28,
+    "googleMetredDistance": 9.6,
+    "googleMetredTime": 18,
+    "distanceDeviation": "0 %",
+    "timeDeviation": "55.55555555555556 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 286,
+    "metredDistance": 9.1,
+    "metredTime": 29,
+    "googleMetredDistance": 1.2,
+    "googleMetredTime": 4,
+    "distanceDeviation": "658.3333333333334 %",
+    "timeDeviation": "625 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 287,
+    "metredDistance": 20,
+    "metredTime": 0,
+    "googleMetredDistance": 1.2,
+    "googleMetredTime": 4,
+    "distanceDeviation": "1566.6666666666667 %",
+    "timeDeviation": "100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 288,
+    "metredDistance": 11.4,
+    "metredTime": 33,
+    "googleMetredDistance": 11.7,
+    "googleMetredTime": 26,
+    "distanceDeviation": "2.564102564102555 %",
+    "timeDeviation": "26.923076923076923 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 289,
+    "metredDistance": 8,
+    "metredTime": 27,
+    "googleMetredDistance": 10.4,
+    "googleMetredTime": 17,
+    "distanceDeviation": "23.07692307692308 %",
+    "timeDeviation": "58.8235294117647 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 290,
+    "metredDistance": 4.3,
+    "metredTime": 13,
+    "googleMetredDistance": 4.5,
+    "googleMetredTime": 12,
+    "distanceDeviation": "4.444444444444448 %",
+    "timeDeviation": "8.333333333333334 %",
+    "Faulty": "False"
+  },
+  {
+    "engagement_id": 291,
+    "metredDistance": 4.4,
+    "metredTime": 22,
+    "googleMetredDistance": 4.9,
+    "googleMetredTime": 10,
+    "distanceDeviation": "10.204081632653061 %",
+    "timeDeviation": "120 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 292,
+    "metredDistance": 3.6,
+    "metredTime": 25,
+    "googleMetredDistance": 57,
+    "googleMetredTime": 1,
+    "distanceDeviation": "93.6842105263158 %",
+    "timeDeviation": "2400 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 293,
+    "metredDistance": 6.2,
+    "metredTime": 42,
+    "googleMetredDistance": 19,
+    "googleMetredTime": 1,
+    "distanceDeviation": "67.36842105263158 %",
+    "timeDeviation": "4100 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 294,
+    "metredDistance": 10,
+    "metredTime": 35,
+    "googleMetredDistance": 4,
+    "googleMetredTime": 8,
+    "distanceDeviation": "150 %",
+    "timeDeviation": "337.5 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 295,
+    "metredDistance": 4.4,
+    "metredTime": 12,
+    "googleMetredDistance": 3.9,
+    "googleMetredTime": 9,
+    "distanceDeviation": "12.820512820512832 %",
+    "timeDeviation": "33.333333333333336 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 296,
+    "metredDistance": 5.1,
+    "metredTime": 37,
+    "googleMetredDistance": 1.9,
+    "googleMetredTime": 4,
+    "distanceDeviation": "168.42105263157896 %",
+    "timeDeviation": "825 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 297,
+    "metredDistance": 6.7,
+    "metredTime": 28,
+    "googleMetredDistance": 0.3,
+    "googleMetredTime": 1,
+    "distanceDeviation": "2133.3333333333335 %",
+    "timeDeviation": "2700 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 298,
+    "metredDistance": 7.8,
+    "metredTime": 40,
+    "googleMetredDistance": 7,
+    "googleMetredTime": 16,
+    "distanceDeviation": "11.428571428571427 %",
+    "timeDeviation": "150 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 299,
+    "metredDistance": 8.1,
+    "metredTime": 27,
+    "googleMetredDistance": 7.3,
+    "googleMetredTime": 13,
+    "distanceDeviation": "10.958904109589039 %",
+    "timeDeviation": "107.6923076923077 %",
+    "Faulty": "True"
+  },
+  {
+    "engagement_id": 300,
+    "metredDistance": 5.4,
+    "metredTime": 12,
+    "googleMetredDistance": 4.9,
+    "googleMetredTime": 13,
+    "distanceDeviation": "10.204081632653061 %",
+    "timeDeviation": "7.6923076923076925 %",
+    "Faulty": "False"
+  }
+]
